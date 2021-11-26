@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: Dealers Warehouse
     subtitle: Wholesale building supply distribution
     actions:
       - label: Try for free
