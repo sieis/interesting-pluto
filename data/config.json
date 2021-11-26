@@ -1,6 +1,6 @@
 {
     "title": "Stackbit Startup Theme",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "classic",
     "palette": "red",
     "mode": "light",
