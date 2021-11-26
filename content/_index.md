@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: images/undraw_building_re_xfcm.svg
+    image: images/undraw_under_construction_-46-pa.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
